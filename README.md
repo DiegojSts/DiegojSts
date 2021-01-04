@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 - Estou atualmente me aprofundando em JavaScript.
+💻 - Apaixonado pela área de Tecnologia e programação.
+🚀 - Sempre buscando aprender e desenvolver novas habilidades.
+🪂 - Ex-militar da Força Aérea Brasileira.
+👨‍💻 - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec.
+
+## Entre em contato
+
+https://www.linkedin.com/in/diego-santos-002a7319b/
