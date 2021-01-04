@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+
+Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz.
 
 <!--
 **DiegojSts/DiegojSts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 - Estou atualmente me aprofundando em JavaScript.
-💻 - Apaixonado pela área de Tecnologia e programação.
-🚀 - Sempre buscando aprender e desenvolver novas habilidades.
-🪂 - Ex-militar da Força Aérea Brasileira.
-👨‍💻 - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec.
+🌱 - Estou atualmente me aprofundando em JavaScript. <br>
+💻 - Apaixonado pela área de Tecnologia e programação. <br>
+🚀 - Sempre buscando aprender e desenvolver novas habilidades. <br>
+🪂 - Ex-militar da Força Aérea Brasileira. <br>
+👨‍💻 - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec. <br>
 
 #### Entre em contato
 
