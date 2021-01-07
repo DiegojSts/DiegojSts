@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <p align="center"> Diego Jesus dos Santos </p>
 <hr>
 
-<p align="center"><b>Gostou? Entre em contato</b></p>
+<p align="center"><b>Gostou? Entre em contato 😀</b></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/diego-santos-002a7319b/">
