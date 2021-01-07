@@ -1,7 +1,7 @@
 <p align="center">
-<img width="35%" align="center" alt="Github" src="https://github.com/DiegojSts/assets/blob/master/gifs/toygif-unscreen.gif" />
+<img width="35%" align="center" alt="Github" src="https://github.com/DiegojSts/assets/blob/main/toygif-unscreen.gif" />
 </p>
-<p><b>Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz.</b></p>
+<p align="center"><b>Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz 📚.</b></p>
 
 ''Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz''. <br> <p align="right"> - Bill Gates </p>
 
@@ -22,13 +22,16 @@ Here are some ideas to get you started:
 <details>
   <summary> <b> Sobre mim </b> <i>(click para expandir!)</i> </summary> <br>
   
-🌱 - Estou atualmente me aprofundando em JavaScript. <br>
-💻 - Apaixonado pela área de Tecnologia e programação. <br>
-🚀 - Sempre buscando aprender e desenvolver novas habilidades. <br>
-🪂 - Ex-militar da Força Aérea Brasileira. <br>
-👨‍💻 - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec. <br>
+🌱  - Estou atualmente me aprofundando em JavaScript. <br>
+💻    - Apaixonado pela área de Tecnologia e programação. <br>
+🚀    - Sempre buscando aprender e desenvolver novas habilidades. <br>
+🪂    - Ex-militar da Força Aérea Brasileira. <br>
+👨‍💻   - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec. <br><br>
 
-[![Diego Santos Github Stats](https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center"/>
+  </p>
+ 
   
 #### Entre em contato
 
