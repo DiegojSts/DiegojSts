@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+<img height="200px" width="35%" align="right" alt="Github" src="https://github.com/DiegojSts/assets/blob/master/gifs/toygif-unscreen.gif" />
   </p>
 
 Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz.
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 <details>
   <summary> <b> Sobre mim </b> <i>(click para expandir!)</i> </summary> <br>
+  
 🌱 - Estou atualmente me aprofundando em JavaScript. <br>
 💻 - Apaixonado pela área de Tecnologia e programação. <br>
 🚀 - Sempre buscando aprender e desenvolver novas habilidades. <br>
