@@ -51,7 +51,19 @@ Here are some ideas to get you started:
 <p align="center"><b>Linguagens e Tecnologias de Interesse</b></p>
 
 <p margin">
-  <img height="30px" src="https://github.com/DiegojSts/assets/blob/main/javascript.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/javascript.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/css.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/git.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/java.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
+ 
+  
   
 </p>
  
