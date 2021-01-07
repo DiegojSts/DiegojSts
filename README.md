@@ -56,15 +56,12 @@ Here are some ideas to get you started:
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/git.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/java.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/ts.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/mysql.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/node.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/vscode.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/github.svg" />
  
-  
-  
 </p>
  
 </details>
