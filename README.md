@@ -1,3 +1,6 @@
+<hr>
+<p align="center">Olá, Sou Diego Santos. Bem vindo! 😀 </p>
+<hr>
 <p align="center">
 <img width="35%" align="center" alt="Github" src="https://github.com/DiegojSts/assets/blob/main/toygif-unscreen.gif" />
 </p>
@@ -29,14 +32,21 @@ Here are some ideas to get you started:
 👨‍💻   - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec. <br><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center"/>
-  </p>
- 
+<img src="https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
+<a href="https://github.com/DiegojSts">
+  <img height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegojSts&theme=radical&hide=glsl,python" />
+</a>
+</p>
+ <br><br><br>
   
-#### Entre em contato
+### Entre em contato
 
-https://www.linkedin.com/in/diego-santos-002a7319b/
-  
+<a href="https://www.linkedin.com/in/diego-santos-002a7319b/">
+  <img align="center" alt="Diego Santtos| Linkedin" width="100px" src="https://github.com/DiegojSts/assets/blob/main/linkedin.svg" />
+</a>
+
+### Linguagens e Tecnologias de Interesse
+ 
 </details>
 
 
