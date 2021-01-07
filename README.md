@@ -37,15 +37,18 @@ Here are some ideas to get you started:
   <img height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegojSts&theme=radical&hide=glsl,python" />
 </a>
 </p>
- <br><br><br>
-  
-### Entre em contato
+ 
+<p align="center"><b>Entre em contato</b>
 
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/diego-santos-002a7319b/">
   <img align="center" alt="Diego Santtos| Linkedin" width="100px" src="https://github.com/DiegojSts/assets/blob/main/linkedin.svg" />
 </a>
+  </p>
 
-### Linguagens e Tecnologias de Interesse
+<p align="center"><b>Linguagens e Tecnologias de Interesse</b></p>
  
 </details>
 
