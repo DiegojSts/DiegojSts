@@ -38,24 +38,16 @@ Here are some ideas to get you started:
 </a>
 </p>
  
-<p align="center"><b>Entre em contato</b>
 
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/diego-santos-002a7319b/">
-  <img align="center" alt="Diego Santtos| Linkedin" width="100px" src="https://github.com/DiegojSts/assets/blob/main/linkedin.svg" />
-</a>
-  </p>
 
 <p align="center"><b>Linguagens e Tecnologias de Interesse</b></p>
 
-<p margin">
+<p align="center">
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/javascript.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/css.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/git.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/java.svg" />
+  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/java.svg" /> <br>
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/ts.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/mysql.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/node.svg" />
@@ -63,6 +55,20 @@ Here are some ideas to get you started:
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/github.svg" />
  
 </p>
+
+<hr>
+<p align="center"><b> Autor </b></p>
+
+<p align="center"> Diego Jesus dos Santos </p>
+<hr>
+
+<p align="center"><b>Gostou? Entre em contato</b></p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/diego-santos-002a7319b/">
+  <img align="center" alt="Diego Santtos| Linkedin" width="100px" src="https://github.com/DiegojSts/assets/blob/main/linkedin.svg" />
+</a>
+  </p>
  
 </details>
 
