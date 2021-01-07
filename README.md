@@ -1,8 +1,7 @@
 <p align="center">
-<img height="200px" width="35%" align="right" alt="Github" src="https://github.com/DiegojSts/assets/blob/master/gifs/toygif-unscreen.gif" />
-  </p>
-
+<img width="35%" align="center" alt="Github" src="https://github.com/DiegojSts/assets/blob/master/gifs/toygif-unscreen.gif" />
 Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz.
+</p>
 
 <!--
 **DiegojSts/DiegojSts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
