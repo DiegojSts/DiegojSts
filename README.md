@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 🚀 - Sempre buscando aprender e desenvolver novas habilidades. <br>
 🪂 - Ex-militar da Força Aérea Brasileira. <br>
 👨‍💻 - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec. <br>
-  
+
+[![Diego Santos Github Stats](https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
   
 #### Entre em contato
 
@@ -35,7 +36,7 @@ https://www.linkedin.com/in/diego-santos-002a7319b/
   
 </details>
 
-[![Diego Santos Github Stats](https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
