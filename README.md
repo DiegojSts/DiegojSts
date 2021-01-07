@@ -1,7 +1,9 @@
 <p align="center">
 <img width="35%" align="center" alt="Github" src="https://github.com/DiegojSts/assets/blob/master/gifs/toygif-unscreen.gif" />
-Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz.
 </p>
+<p><b>Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz.</b></p>
+
+#### ''Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz''. <br> - Bill Gates
 
 <!--
 **DiegojSts/DiegojSts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
