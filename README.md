@@ -49,6 +49,11 @@ Here are some ideas to get you started:
   </p>
 
 <p align="center"><b>Linguagens e Tecnologias de Interesse</b></p>
+
+<p margin">
+  <img height="30px" src="https://github.com/DiegojSts/assets/blob/main/javascript.svg" />
+  
+</p>
  
 </details>
 
