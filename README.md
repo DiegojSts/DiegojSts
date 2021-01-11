@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 💻    - Apaixonado pela área de Tecnologia e programação. <br>
 🚀    - Sempre buscando aprender e desenvolver novas habilidades. <br>
 🪂    - Ex-militar da Força Aérea Brasileira. <br>
-👨‍💻   - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec. <br><br>
+👨‍💻   - Técnico em Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAI Cimatec e Graduando em Análise e Desenvolvimento de Sistemas pela UNIFACS. <br><br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
