@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
 <a href="https://github.com/DiegojSts">
-  <img height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegojSts&theme=radical&hide=glsl,python" />
+  <img height="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegojSts&theme=radical&hide=glsl,python" />
 </a>
 </p>
  
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/diego-santos-002a7319b/">
-  <img align="center" alt="Diego Santtos| Linkedin" width="100px" src="https://github.com/DiegojSts/assets/blob/main/linkedin.svg" />
+  <img align="center" alt="Diego Santos| Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>"
 </a>
   </p>
  
