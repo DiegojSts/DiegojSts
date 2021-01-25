@@ -2,7 +2,7 @@
 <p align="center">Olá, Sou Diego Santos. Bem vindo! 😀 </p>
 <hr>
 <p align="center">
-<img width="35%" align="center" alt="Github" src="https://github.com/DiegojSts/assets/blob/main/toygif-unscreen.gif" />
+<img width="35%" align="center" src="https://media.giphy.com/media/zUfEzfngyKhYoS1LP6/giphy.gif" />
 </p>
 <p align="center"><b>Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz 📚.</b></p>
 
