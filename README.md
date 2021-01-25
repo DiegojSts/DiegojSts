@@ -58,7 +58,7 @@ Here are some ideas to get you started:
  <!--VsCode--> <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
  
 </p>
-
+<br>
 <hr>
 <p align="center"><b> Autor </b></p>
 
