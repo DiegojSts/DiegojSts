@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
 <a href="https://github.com/DiegojSts">
-  <img height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegojSts&theme=radical&hide=glsl,python" />
+  <img height="298px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegojSts&theme=radical&hide=glsl,python" />
 </a>
 </p>
  
@@ -58,7 +58,6 @@ Here are some ideas to get you started:
  <!--VsCode--> <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
  
 </p>
-<br>
 <hr>
 <p align="center"><b> Autor </b></p>
 
