@@ -11,7 +11,7 @@
 
 ### Educação
 - :school: Atualmente estudo Análise e Desenvolvimento de Sistemas na [UNIFACS](https://www.unifacs.br/graduacao/analise-e-desenvolvimento-de-sistemas/);
-- :mortar_board: Sou formado como Técnico em Desenvolvimento de Sistemas pelo [SENAI/CIMATEC](https://www.tecnicosenai.com.br/cursos/desenvolvimento-sistemas/).
+- :mortar_board: Sou formado como Técnico em Desenvolvimento de Sistemas pelo [SENAI/CIMATEC](https://www.tecnicosenai.com.br/cursos/desenvolvimento-de-sistemas/).
   
 ### Conhecimentos e Interesses
 | Front-end| Framework/Lib Front |
