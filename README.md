@@ -1,10 +1,11 @@
-<hr>
-<p align="center">Olá, Sou Diego Santos. Bem vindo! 😀 </p>
-<hr>
+# Diego Santos
+
+<!--
 <p align="center">
 <img width="35%" align="center" src="https://media.giphy.com/media/zUfEzfngyKhYoS1LP6/giphy.gif" />
 </p>
 <p align="center"><b>Sou Diego Santos Técnico em Desenvolvimento de Sistemas e um eterno aprendiz 📚.</b></p>
+-->
 
 ''Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz''. <br> <p align="right"> - Bill Gates </p>
 
