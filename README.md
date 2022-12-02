@@ -16,7 +16,7 @@
 ### Conhecimentos e Interesses
 | Front-end| Framework/Lib Front |
 | --- | --- |
-<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> |<img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap"/>
 
 | Back-end| Framework Back|
 | --- | --- |
